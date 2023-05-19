@@ -1,0 +1,8 @@
+C:\xampp\htdocs\awus\FiscellaEjercicios\Ejer_AprobacionMateria\Ejercicio_1\Ejercicio_1\bin\Debug\Ejercicio_1.exe.config
+C:\xampp\htdocs\awus\FiscellaEjercicios\Ejer_AprobacionMateria\Ejercicio_1\Ejercicio_1\bin\Debug\Ejercicio_1.exe
+C:\xampp\htdocs\awus\FiscellaEjercicios\Ejer_AprobacionMateria\Ejercicio_1\Ejercicio_1\bin\Debug\Ejercicio_1.pdb
+C:\xampp\htdocs\awus\FiscellaEjercicios\Ejer_AprobacionMateria\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.csproj.AssemblyReference.cache
+C:\xampp\htdocs\awus\FiscellaEjercicios\Ejer_AprobacionMateria\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\awus\FiscellaEjercicios\Ejer_AprobacionMateria\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\awus\FiscellaEjercicios\Ejer_AprobacionMateria\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.exe
+C:\xampp\htdocs\awus\FiscellaEjercicios\Ejer_AprobacionMateria\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.pdb
