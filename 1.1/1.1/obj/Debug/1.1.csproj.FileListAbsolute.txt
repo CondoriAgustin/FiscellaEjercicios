@@ -1,0 +1,8 @@
+C:\xampp\htdocs\awus\FiscellaEjercicios\1.1\1.1\bin\Debug\1.1.exe.config
+C:\xampp\htdocs\awus\FiscellaEjercicios\1.1\1.1\bin\Debug\1.1.exe
+C:\xampp\htdocs\awus\FiscellaEjercicios\1.1\1.1\bin\Debug\1.1.pdb
+C:\xampp\htdocs\awus\FiscellaEjercicios\1.1\1.1\obj\Debug\1.1.csproj.AssemblyReference.cache
+C:\xampp\htdocs\awus\FiscellaEjercicios\1.1\1.1\obj\Debug\1.1.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\awus\FiscellaEjercicios\1.1\1.1\obj\Debug\1.1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\awus\FiscellaEjercicios\1.1\1.1\obj\Debug\1.1.exe
+C:\xampp\htdocs\awus\FiscellaEjercicios\1.1\1.1\obj\Debug\1.1.pdb
